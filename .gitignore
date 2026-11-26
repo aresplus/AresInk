@@ -1,0 +1,35 @@
+# Dependencies and local builds
+node_modules/
+dist/
+target/
+.build/
+src-tauri/gen/
+coverage/
+
+# OS, editors, local settings
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.env
+.env.*
+!.env.example
+
+# Packages belong in Releases
+*.dmg
+*.exe
+*.app/
+*.zip
+*.tar.gz
+release-assets/
+
+# Local signing material and manuscript state
+*.p12
+*.pfx
+*.key
+*.pem
+.novel/
+.aresink/
+*.sqlite-wal
+*.sqlite-shm
