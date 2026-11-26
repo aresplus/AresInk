@@ -4,14 +4,14 @@
 <h1 align="center">AresInk</h1>
 <p align="center">用中文或英文写长篇，用 Word 交稿。</p>
 <p align="center">
-  <a href="https://github.com/aresplus/aresink/releases/tag/v1.0.0"><img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-303030"></a>
+  <a href="https://github.com/aresplus/AresInk/releases/tag/v1.0.0"><img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-303030"></a>
   <img alt="macOS 13.3+" src="https://img.shields.io/badge/macOS-13.3%2B-444">
   <img alt="Windows 10 and 11 x64" src="https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-444">
   <img alt="Tauri 2" src="https://img.shields.io/badge/Tauri-2-37676c">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Proprietary-555"></a>
 </p>
 
-<p align="center"><a href="https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg"><strong>下载 macOS 版</strong></a> · <a href="https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a> · <a href="https://aressheng.com/products/aresink/"><strong>产品官网</strong></a></p>
+<p align="center"><a href="https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg"><strong>下载 macOS 版</strong></a> · <a href="https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a> · <a href="https://aressheng.com/products/aresink/"><strong>产品官网</strong></a></p>
 
 AresInk 是一款支持中文和英文的离线 Markdown 长篇写作工具。书稿按卷章保存在自己的电脑上，打开「设置 → 界面语言」就能切换中文或 English。
 
@@ -44,10 +44,10 @@ AresInk 是一款支持中文和英文的离线 Markdown 长篇写作工具。�
 
 | 平台 | 适用设备 | 安装包 |
 | --- | --- | --- |
-| macOS | 13.3+ · Apple Silicon / Intel | [Universal DMG](https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg) |
-| Windows | 10 / 11 · x64 | [x64 Setup EXE](https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe) |
+| macOS | 13.3+ · Apple Silicon / Intel | [Universal DMG](https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg) |
+| Windows | 10 / 11 · x64 | [x64 Setup EXE](https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe) |
 
-[发布说明与 SHA-256](https://github.com/aresplus/aresink/releases/tag/v1.0.0) · [产品官网](https://aressheng.com/products/aresink/)
+[发布说明与 SHA-256](https://github.com/aresplus/AresInk/releases/tag/v1.0.0) · [产品官网](https://aressheng.com/products/aresink/)
 
 **macOS**　打开 DMG，把 AresInk 拖入「应用程序」，再从那里启动。AresInk 可在 Mac 上正常运行。当前版本采用临时签名，尚未经 Apple 公证，首次打开时若提示「无法验证开发者」，确认从本项目下载且 DMG 的 SHA-256 与发布页一致后，点「完成」，在「系统设置 → 隐私与安全性」找到 AresInk，点「仍要打开」并确认。若明确提示「已损坏」，先从本页重新下载并核对校验值；若仍提示损坏或恶意软件，请在 Issues 反馈。
 
@@ -69,7 +69,7 @@ AresInk 是一款支持中文和英文的离线 Markdown 长篇写作工具。�
 
 ## 参与改进
 
-写长篇时，哪一步最容易让你离开编辑器？欢迎在 [Issues](https://github.com/aresplus/aresink/issues/new/choose) 讲讲你的写作场景。如果 AresInk 帮你写完一章或交出一部书稿，也欢迎点个 **Star**，或把它分享给一起写作的朋友。
+写长篇时，哪一步最容易让你离开编辑器？欢迎在 [Issues](https://github.com/aresplus/AresInk/issues/new/choose) 讲讲你的写作场景。如果 AresInk 帮你写完一章或交出一部书稿，也欢迎点个 **Star**，或把它分享给一起写作的朋友。
 
 ## 版权与致谢
 

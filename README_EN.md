@@ -4,14 +4,14 @@
 <h1 align="center">AresInk</h1>
 <p align="center">Write your book in English or Chinese. Deliver it in Word.</p>
 <p align="center">
-  <a href="https://github.com/aresplus/aresink/releases/tag/v1.0.0"><img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-303030"></a>
+  <a href="https://github.com/aresplus/AresInk/releases/tag/v1.0.0"><img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-303030"></a>
   <img alt="macOS 13.3+" src="https://img.shields.io/badge/macOS-13.3%2B-444">
   <img alt="Windows 10 and 11 x64" src="https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-444">
   <img alt="Tauri 2" src="https://img.shields.io/badge/Tauri-2-37676c">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Proprietary-555"></a>
 </p>
 
-<p align="center"><a href="https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg"><strong>Download for macOS</strong></a> · <a href="https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe"><strong>Download for Windows</strong></a> · <a href="https://aressheng.com/products/aresink/"><strong>Website</strong></a></p>
+<p align="center"><a href="https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg"><strong>Download for macOS</strong></a> · <a href="https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe"><strong>Download for Windows</strong></a> · <a href="https://aressheng.com/products/aresink/"><strong>Website</strong></a></p>
 
 AresInk is an offline Markdown workspace for writing long-form manuscripts in English or Chinese. Organize your book into chapters on your own computer. To switch the app interface, open **Settings → Interface language** and select **English** or **中文**.
 
@@ -44,10 +44,10 @@ The bilingual Chinese/English workspace includes day and night themes, focus mod
 
 | Platform | Requirements | Installer |
 | --- | --- | --- |
-| macOS | 13.3+ · Apple Silicon / Intel | [Universal DMG](https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg) |
-| Windows | 10 / 11 · x64 | [x64 Setup EXE](https://github.com/aresplus/aresink/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe) |
+| macOS | 13.3+ · Apple Silicon / Intel | [Universal DMG](https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-macOS-Universal.dmg) |
+| Windows | 10 / 11 · x64 | [x64 Setup EXE](https://github.com/aresplus/AresInk/releases/download/v1.0.0/AresInk-1.0.0-Windows-x64-Setup.exe) |
 
-[Release notes and SHA-256 checksums](https://github.com/aresplus/aresink/releases/tag/v1.0.0) · [Product website](https://aressheng.com/products/aresink/)
+[Release notes and SHA-256 checksums](https://github.com/aresplus/AresInk/releases/tag/v1.0.0) · [Product website](https://aressheng.com/products/aresink/)
 
 **macOS.** Open the DMG, drag AresInk to Applications, and launch it there. AresInk runs on macOS. This build is ad hoc signed and has not been notarized by Apple, so you may see a developer verification warning on first launch. For an unidentified-developer warning, verify the download source and DMG checksum, dismiss the alert, then choose **System Settings → Privacy & Security → Open Anyway** for AresInk. For a damaged-app alert, download a fresh copy and verify its checksum. Report persistent damage or a malware alert in Issues.
 
@@ -69,7 +69,7 @@ The bilingual Chinese/English workspace includes day and night themes, focus mod
 
 ## Feedback
 
-What makes you leave the editor when you work on a long manuscript? [Tell us about your workflow](https://github.com/aresplus/aresink/issues/new/choose). If AresInk helped you finish a chapter or deliver a book, give it a **Star** or pass it along to another writer.
+What makes you leave the editor when you work on a long manuscript? [Tell us about your workflow](https://github.com/aresplus/AresInk/issues/new/choose). If AresInk helped you finish a chapter or deliver a book, give it a **Star** or pass it along to another writer.
 
 ## Copyright and acknowledgments
 
