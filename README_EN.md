@@ -49,9 +49,9 @@ The bilingual Chinese/English workspace includes day and night themes, focus mod
 
 [Release notes and SHA-256 checksums](https://github.com/aresplus/aresink/releases/tag/v1.0.0) · [Product website](https://aressheng.com/products/aresink/)
 
-**macOS.** Open the DMG, drag AresInk to Applications, and launch it there. This build is ad hoc signed and has not been notarized by Apple. For an unidentified-developer warning, verify the download source and DMG checksum, dismiss the alert, then choose **System Settings → Privacy & Security → Open Anyway** for AresInk. For a damaged-app alert, download a fresh copy and verify its checksum. Report persistent damage or a malware alert in Issues.
+**macOS.** Open the DMG, drag AresInk to Applications, and launch it there. AresInk runs on macOS. This build is ad hoc signed and has not been notarized by Apple, so you may see a developer verification warning on first launch. For an unidentified-developer warning, verify the download source and DMG checksum, dismiss the alert, then choose **System Settings → Privacy & Security → Open Anyway** for AresInk. For a damaged-app alert, download a fresh copy and verify its checksum. Report persistent damage or a malware alert in Issues.
 
-**Windows.** Run the EXE and choose an install location. For a SmartScreen reputation warning, verify the EXE checksum, select **More info**, check the filename, and choose **Run anyway** if you trust the release. Stop and report a specific Defender threat detection. The installer may need internet access once if WebView2 is missing.
+**Windows.** The developer installed and ran AresInk 1.0.0 on a Windows PC. Run the EXE and choose an install location. For a SmartScreen reputation warning, verify the EXE checksum, select **More info**, check the filename, and choose **Run anyway** if you trust the release. Stop and report a specific Defender threat detection. The installer may need internet access once if WebView2 is missing.
 
 [Apple’s guide](https://support.apple.com/en-us/102445) · [Microsoft SmartScreen](https://learn.microsoft.com/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/)
 

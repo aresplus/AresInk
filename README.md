@@ -49,9 +49,9 @@ AresInk 是一款支持中文和英文的离线 Markdown 长篇写作工具。�
 
 [发布说明与 SHA-256](https://github.com/aresplus/aresink/releases/tag/v1.0.0) · [产品官网](https://aressheng.com/products/aresink/)
 
-**macOS**　打开 DMG，把 AresInk 拖入「应用程序」，再从那里启动。此构建使用临时签名，尚未经过 Apple 公证。若提示「无法验证开发者」，确认从本项目下载且 DMG 的 SHA-256 与发布页一致后，点「完成」，在「系统设置 → 隐私与安全性」找到 AresInk，点「仍要打开」并确认。若明确提示「已损坏」，先从本页重新下载并核对校验值；若仍提示损坏或恶意软件，请在 Issues 反馈。
+**macOS**　打开 DMG，把 AresInk 拖入「应用程序」，再从那里启动。AresInk 可在 Mac 上正常运行。当前版本采用临时签名，尚未经 Apple 公证，首次打开时若提示「无法验证开发者」，确认从本项目下载且 DMG 的 SHA-256 与发布页一致后，点「完成」，在「系统设置 → 隐私与安全性」找到 AresInk，点「仍要打开」并确认。若明确提示「已损坏」，先从本页重新下载并核对校验值；若仍提示损坏或恶意软件，请在 Issues 反馈。
 
-**Windows**　打开 EXE，选择安装目录。如果 SmartScreen 只提示「Windows 已保护你的电脑」，先核对发布页上的 SHA-256，再点「更多信息」核对文件名，确认后可点「仍要运行」。若 Defender 报告具体威胁，请停止并反馈。首次安装若缺少 WebView2，向导会联网获取它。
+**Windows**　开发者已在 Windows 电脑上实际安装并运行 AresInk 1.0.0。打开 EXE，选择安装目录。如果 SmartScreen 只提示「Windows 已保护你的电脑」，先核对发布页上的 SHA-256，再点「更多信息」核对文件名，确认后可点「仍要运行」。若 Defender 报告具体威胁，请停止并反馈。首次安装若缺少 WebView2，向导会联网获取它。
 
 [Apple 首次打开说明](https://support.apple.com/zh-cn/102445) · [Microsoft SmartScreen](https://learn.microsoft.com/windows/security/operating-system-security/virus-and-threat-protection/microsoft-defender-smartscreen/)
 
